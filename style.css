@@ -1,0 +1,24 @@
+body {
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+    background-color: pink;
+
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+
+
+.image{
+    width: 60%;
+}
+
+
+.social-icon{
+    color: pink;
+}
+
+.social-icon:hover{
+    color: mediumvioletred;
+}
